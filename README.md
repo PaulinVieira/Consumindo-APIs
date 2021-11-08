@@ -1,2 +1,2 @@
 # Consumindo-APIs
-O único objeto desse repositório é demonstrar meu conhecimento para consumir APIs. 
+The purpose of this repository is to demonstrate my knowledge of consuming APIs.
